@@ -3,7 +3,10 @@
 This project compares my fitbit activity data to data from a local weather station for 2022. 
 
 ## Set up
-Clone repository, install Anaconda and run comparison.ipynb\.
+Clone repository, and install Anaconda 
+Create virtual environment <code> conda create –prefix ./env </code>
+Activate virtual enviroment <code> conda activate env </code>
+Use conda to install packages
 
 Required packages are detailed in the requirements.txt file. 
 You will need to intall the following:
@@ -11,6 +14,17 @@ You will need to intall the following:
 - numpy
 - matplotlib
 - seaborn 
+
+Run comparison.ipynb
+
+### Run Virtual Environment
+To Run the Project:
+Navigate to directory and set up a virtual environment python -m venv venv
+Activate virtual environment
+Windows: venv\Scripts\activate
+Mac/Linux: source venv/bin/activate
+Install requirements.txt pip install -r requirements.txt
+Type jupyter notebook to start Jupyter Notebook, and select lunacy.ipynb to run.
 
 ## Features
 1. I will read in two data files.
