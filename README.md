@@ -3,9 +3,12 @@
 This project compares my fitbit activity data to data from a local weather station for 2022. 
 
 ## Set up
-Clone repository, and install Anaconda 
-Create virtual environment <code> conda create –prefix ./env </code>
-Activate virtual enviroment <code> conda activate env </code>
+Clone repository, and install Anaconda  
+
+Create virtual environment <code> conda create –prefix ./env </code>  
+
+Activate virtual enviroment <code> conda activate env </code>  
+
 Use conda to install packages
 
 Required packages are detailed in the requirements.txt file. 
