@@ -17,15 +17,6 @@ You will need to intall the following:
 
 Run comparison.ipynb
 
-### Run Virtual Environment
-To Run the Project:
-Navigate to directory and set up a virtual environment python -m venv venv
-Activate virtual environment
-Windows: venv\Scripts\activate
-Mac/Linux: source venv/bin/activate
-Install requirements.txt pip install -r requirements.txt
-Type jupyter notebook to start Jupyter Notebook, and select lunacy.ipynb to run.
-
 ## Features
 1. I will read in two data files.
 2. I will clean my data and perform a pandas merge with the two data sets, then calculate some new values based on the new data set.
