@@ -9,7 +9,7 @@ Activate virtual enviroment <code> conda activate env </code>
 Use conda to install packages
 
 Required packages are detailed in the requirements.txt file. 
-You will need to intall the following:
+You will need to install the following:
 - pandas
 - numpy
 - matplotlib
