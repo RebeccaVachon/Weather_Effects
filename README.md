@@ -1,4 +1,4 @@
-# How Does the Weather Effect my Activity?
+# 🌤 How Does the Weather Effect my Activity? ⛈
 ## Description
 This project compares my fitbit activity data to data from a local weather station for 2022. 
 
